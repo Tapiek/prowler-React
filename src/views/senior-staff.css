@@ -1,0 +1,502 @@
+.senior-staff-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-pallette-darkcolor);
+}
+.senior-staff-container01 {
+  width: 98%;
+  height: auto;
+  display: flex;
+  padding: 16px;
+  max-width: 1200px;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-pallette-background);
+}
+.senior-staff-container02 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.senior-staff-container03 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container04 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image {
+  width: 250px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image:hover {
+  width: 275px;
+}
+.senior-staff-text {
+  text-align: center;
+}
+.senior-staff-text01 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text02 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text03 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container05 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container06 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-navlink {
+  display: contents;
+}
+.senior-staff-image01 {
+  width: 250px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+  text-decoration: none;
+}
+.senior-staff-image01:hover {
+  width: 275px;
+}
+.senior-staff-text05 {
+  text-align: center;
+}
+.senior-staff-text06 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text07 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text08 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container07 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.senior-staff-container08 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container09 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image02 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image02:hover {
+  width: 250px;
+}
+.senior-staff-text10 {
+  text-align: center;
+}
+.senior-staff-text11 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text12 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text13 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container10 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container11 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image03 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image03:hover {
+  width: 250px;
+}
+.senior-staff-text15 {
+  text-align: center;
+}
+.senior-staff-text16 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text17 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text18 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container12 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container13 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image04 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image04:hover {
+  width: 250px;
+}
+.senior-staff-text20 {
+  text-align: center;
+}
+.senior-staff-text21 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text22 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text23 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container14 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container15 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image05 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image05:hover {
+  width: 250px;
+}
+.senior-staff-text25 {
+  text-align: center;
+}
+.senior-staff-text26 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text27 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text28 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container16 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.senior-staff-container17 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container18 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image06 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image06:hover {
+  width: 250px;
+}
+.senior-staff-text30 {
+  text-align: center;
+}
+.senior-staff-text31 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text32 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text33 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container19 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container20 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image07 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image07:hover {
+  width: 250px;
+}
+.senior-staff-text35 {
+  text-align: center;
+}
+.senior-staff-text36 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text37 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text38 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container21 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container22 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image08 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image08:hover {
+  width: 250px;
+}
+.senior-staff-text40 {
+  text-align: center;
+}
+.senior-staff-text41 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text42 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text43 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-container23 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.senior-staff-container24 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.senior-staff-image09 {
+  width: 225px;
+  object-fit: cover;
+  transition: 0.3s;
+  border-color: var(--dl-color-pallette-darkcolor);
+  border-width: 3px;
+  border-radius: var(--dl-radius-radius-radius8);
+}
+.senior-staff-image09:hover {
+  width: 250px;
+}
+.senior-staff-text45 {
+  text-align: center;
+}
+.senior-staff-text46 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: "KoHo";
+  font-weight: 800;
+}
+.senior-staff-text47 {
+  font-size: 18px;
+  font-family: "KoHo";
+}
+.senior-staff-text48 {
+  font-size: 18px;
+  font-family: "KoHo";
+}

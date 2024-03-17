@@ -1,0 +1,152 @@
+.character-guide-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-pallette-darkcolor);
+}
+.character-guide-container1 {
+  width: 98%;
+  height: auto;
+  display: flex;
+  padding: 16px;
+  max-width: 1200px;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  margin-bottom: 12px;
+  flex-direction: row;
+  justify-content: center;
+  background-color: var(--dl-color-pallette-background);
+}
+.character-guide-container2 {
+  flex: 0 0 auto;
+  width: 46%;
+  height: auto;
+  margin: 24px;
+  display: flex;
+  align-self: flex-start;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: rgba(26, 26, 26, 0.61);
+}
+.character-guide-container2:hover {
+  width: 50%;
+}
+.character-guide-text {
+  color: var(--dl-color-pallette-lightcolor);
+  padding: 16px;
+  font-size: 2.5em;
+  font-family: "Anta";
+  text-decoration: underline;
+}
+.character-guide-text01 {
+  color: var(--dl-color-pallette-lightcolor);
+  width: 100%;
+  font-size: 1.5em;
+  text-align: left;
+  transition: 0.3s;
+  font-family: "KoHo";
+  padding-top: 0px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+}
+.character-guide-text01:hover {
+  color: var(--dl-color-pallette-lightblue);
+}
+.character-guide-text02 {
+  font-size: 1.55em;
+  font-weight: 700;
+}
+.character-guide-text08 {
+  font-size: 1.55em;
+  font-weight: 700;
+}
+.character-guide-text12 {
+  font-style: italic;
+}
+.character-guide-text16 {
+  font-size: 1.55em;
+  font-weight: 700;
+}
+.character-guide-text20 {
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.character-guide-text22 {
+  font-style: normal;
+  font-weight: 300;
+  text-decoration: underline;
+}
+.character-guide-container3 {
+  flex: 0 0 auto;
+  width: 46%;
+  height: auto;
+  margin: 24px;
+  display: flex;
+  align-self: flex-start;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-radius8);
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: var(--dl-color-pallette-darkcolor);
+}
+.character-guide-container3:hover {
+  width: 50%;
+  align-self: flex-start;
+}
+.character-guide-text25 {
+  color: var(--dl-color-pallette-lightcolor);
+  padding: 16px;
+  font-size: 2.5em;
+  font-family: "Anta";
+  text-decoration: underline;
+}
+.character-guide-text26 {
+  color: var(--dl-color-pallette-lightcolor);
+  width: 100%;
+  font-size: 1.5em;
+  text-align: left;
+  transition: 0.3s;
+  font-family: "KoHo";
+  padding-top: 0px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+}
+.character-guide-text26:hover {
+  color: var(--dl-color-pallette-lightblue);
+}
+.character-guide-text27 {
+  font-size: 1.55em;
+  font-style: normal;
+  font-weight: 700;
+}
+.character-guide-text36 {
+  font-size: 1.55em;
+  font-weight: 700;
+}
+.character-guide-text41 {
+  font-style: normal;
+  font-weight: 200;
+}
+.character-guide-text46 {
+  font-style: normal;
+  font-weight: 200;
+}
+@media(max-width: 479px) {
+  .character-guide-text {
+    font-size: 1.7em;
+  }
+  .character-guide-text25 {
+    font-size: 1.7em;
+  }
+}
